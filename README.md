@@ -95,4 +95,4 @@ Or get in touch via Email: hrfh@manchester.ac.uk.
 
 ---
 
-<sup><sub>? 2025 HRfH Connect. All rights reserved.</sub></sup>
+<sup><sub>2025 HRfH Connect. All rights reserved.</sub></sup>
