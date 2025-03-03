@@ -28,30 +28,30 @@
 
 The diversity of the **HRfH Connect** speakers reflected the wide range of expertise needed to create world-leading research. Thank you to:
 
-- **Professor Aiden Doherty**  
-- **Professor Claire Steves**  
-- **Dr Mary De Silva**  
+- **Professor Will Dixon**
 - **Max Carlish**  
 - **Seb Tucknott**  
-- **Bruce Hellman**  
+- **Dr Mary De Silva**  
+- **Professor Aiden Doherty**  
+- **Bruce Hellman**
 - **Dr Amos Folarin**  
 - **Professor Cathy Speed**  
-- **Dr Pauli Ohukainen**  
-- **Professor Will Dixon**
+- **Dr Pauli Ohukainen** 
+- **Professor Claire Steves**
 
 ### Slides
 
 Please find the slides from the talks below (click to view/download):
 
-1. [Aiden Doherty - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Keynote%20I_Aiden%20Doherty.pptx) 
-2. [Claire Steves - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Keynote%20II_Claire%20Steves.pptx)
+1. [Will Dixon - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Welcome%20%26%20Introduction%20to%20HRfH_Will%20Dixon.pptx)
+2. [Seb Tucknott - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Living%20With%20a%20Long-Term%20Condition_Seb%20Tucknott.pptx)
 3. [Mary De Silva - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20A%20View%20from%20Government_Mary%20De%20Silva.pptx)
-4. [Seb Tucknott - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Living%20With%20a%20Long-Term%20Condition_Seb%20Tucknott.pptx)
+4. [Aiden Doherty - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Keynote%20I_Aiden%20Doherty.pptx) 
 5. [Bruce Hellman - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Tech%20Showcase_uMotif_Bruce%20Hellman.pptx)
 6. [Amos Folarin - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Tech%20Showcase_RADAR-base_Amos%20Folarin.pptx)
 7. [Cathy Speed - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Tech%20Showcase_Google%2C%20Fitbit_%20Cathy%20Speed.pdf)
 8. [Pauli Ohukainen - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Tech%20Showcase_OURA_Pauli%20Ohukainen.pptx)
-9. [Will Dixon - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Welcome%20%26%20Introduction%20to%20HRfH_Will%20Dixon.pptx)
+9. [Claire Steves - Presentation Slides](Slides/FirstEvent/SpeakerPresentation/HRfH%20Connect%2007Feb25%20-%20Keynote%20II_Claire%20Steves.pptx)
 
 
 ---
